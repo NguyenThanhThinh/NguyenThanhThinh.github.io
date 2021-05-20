@@ -6,7 +6,7 @@ description: giới thiệu .net core, asp net core, .net,c#
 ---
 
 
-## 1. Giới thiệu .NET Core
+# 1. Giới thiệu .NET Core
 
 Microsoft .NET Core là một framework miễn phí, mã nguồn mở được phát triển dựa vào
 .NET Framework, đa nền tảng (cross-platform – có thể chạy trên Windows, Linux, MacOS),
