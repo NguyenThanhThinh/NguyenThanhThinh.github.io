@@ -34,7 +34,8 @@ kramdown:
     disable: true
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 excerpt_separator: <!--more-->
 defaults:
   -
