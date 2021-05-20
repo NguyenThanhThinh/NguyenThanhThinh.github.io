@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="page-wrapper">
+    <div class="post__title">
+        <h1 class="title">{{ page.title }}</h1>
+        <div class="post__meta">
+            <i>—</i><time datetime="{{ page.date }}" class="timeago">{{ page.date | date_to_string }}</time>
+        </div>
+    </div>
+
+    <div class="post__content">
+        <!-- <div class="container"> -->
+            <div class="content-inner oclockvn">
+                {{ content }}
+            </div>        
+        <!-- </div> -->
+    </div>
+
+    <div class="post__share">
+        <h4 class="share__title">Share This</h4>
+        <div class="share__links">
+            {% include shared.html %}
+        </div>
+    </div>
+
+    {% unless page.disable_comment %}
+        <div class="post__comment">
+            <div class="center">
+                {% include disqus.html %}
+            </div>
+        </div>
+    {% endunless %}
+</div>

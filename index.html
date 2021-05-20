@@ -1,0 +1,24 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title:
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post-entry">
+    <div class="center">
+      <div class="d-block d-md-flex entry-content">
+        <div class="entry__meta">
+          <span class="post__date">{{ post.date | date_to_string }}</span>
+        </div>
+        <h4 class="entry-title">
+          <a href="{{ post.url }}" class="post__link">{{ post.title }}</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
