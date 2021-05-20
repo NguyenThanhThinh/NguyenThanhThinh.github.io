@@ -60,7 +60,7 @@ Console.WriteLine("Hello World!");
 
 Gõ tổ hợp phím `CTRL+F5` để chạy chương trình, bạn sẽ được kết quả:
 
-![](\assets\img\netcore\result.png)
+![asp net core,c#](\assets\img\netcore\result.png)
 
 ``` ....Còn tiếp.... ```
 
