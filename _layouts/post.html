@@ -12,7 +12,7 @@ layout: default
 
     <div class="post__content">
         <!-- <div class="container"> -->
-            <div class="content-inner oclockvn">
+            <div class="content-inner blog">
                 {{ content }}
             </div>        
         <!-- </div> -->
@@ -24,12 +24,4 @@ layout: default
             {% include shared.html %}
         </div>
     </div>
-
-    {% unless page.disable_comment %}
-        <div class="post__comment">
-            <div class="center">
-                {% include disqus.html %}
-            </div>
-        </div>
-    {% endunless %}
 </div>
