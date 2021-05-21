@@ -4,14 +4,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name = "description" content = "{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
-  <link rel="icon" sizes="16x16 32x32" href="{{ '/assets/img/icon.ico' | relative_url }}"/>
+  <meta name="description"
+    content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
+  <link rel="icon" sizes="16x16 32x32" href="{{ '/assets/img/icon.ico' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/css/highlighter.css' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/css/bootstrap-reboot.min.css' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/css/bootstrap-grid.min.css' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 
-  <title>Thinh Nguyen| {{ page.title }}</title>
+  <title>Thinh Nguyen| {{ page.description | truncate: 160 }}</title>
   {% if jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
