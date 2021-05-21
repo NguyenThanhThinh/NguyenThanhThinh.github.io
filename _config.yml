@@ -1,64 +1,58 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site
+name: 'Thinh Nguyen'
+description: ''
+logo: 'assets/images/logo.png'
+favicon: 'assets/img/icon.ico'
+disqus: 'website'
+email: 'thanhthinhcntt@gmail.com'
+mailchimp-list: ''
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Thinh Nguyen
-email: thanhthinhcntt@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nguyenthanhthinh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-disqus: "thinh"
-links:
-  facebook: 
-  github: nguyenthanhthinh
-  linkedin: 
+include: ["_pages"]
+permalink: /:title/
 
-# Build settings
-markdown: kramdown
-theme: minima
-highlighter: none
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable: true
-plugins:
+# Plugins
+plugins: 
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
-excerpt_separator: <!--more-->
-defaults:
-  -
-    scope:
-      path: ""
-      type: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+languages:
+    sal:
+      name:           Net Core
+      site:           
+      avatar:         assets/images/avatar1.jpg
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+    jane:
+      name:           JavaScript 
+      site:          
+      avatar:         assets/images/avatar2.jpg
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      language: sal
+      avatar: assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+#exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

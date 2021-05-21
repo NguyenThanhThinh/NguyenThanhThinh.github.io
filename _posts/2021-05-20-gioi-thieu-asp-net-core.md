@@ -1,8 +1,7 @@
 ---
 title: Giới thiệu .NET Core
-tags: [asp net core,asp net,.net core"]
-author: Thinh Nguyen
-description: Giới thiệu .net core, asp net core, .net,c#
+categories: [net core]
+image: assets/img/netcore/intro.png
 ---
 
 
