@@ -62,5 +62,3 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-paginate: 7
-paginate_path: "/page:num/"
