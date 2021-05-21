@@ -157,7 +157,7 @@ description: ""
                     <p class="mb-3 lead">
                         {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                     </p>
-                    <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+                    <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Đọc tiếp</a>
                 </div>
                 <div class="col-md-6 d-none d-md-block pr-0"
                     style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">
@@ -178,13 +178,10 @@ description: ""
 
 
     <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-
     <div class="row mt-3">
-
         <div class="col-md-8 main-loop">
 
-            <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-
+            <h4 class="font-weight-bold spanborder"><span>Tất cả bài viết</span></h4>
 
             {% for post in paginator.posts %}
 
