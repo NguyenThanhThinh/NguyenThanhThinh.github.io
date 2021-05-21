@@ -4,6 +4,7 @@ title:  "Định danh"
 language: jane
 categories: [c#]
 image: assets/img/netcore/identifier.jpg
+description : identifier c#, c# định danh
 tags: [c#]
 ---
 
