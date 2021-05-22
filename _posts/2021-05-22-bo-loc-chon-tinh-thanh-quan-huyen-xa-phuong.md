@@ -244,4 +244,4 @@ Thành quả 🤩🤩🤩🤩
 
 ![js, javascript](\assets\img\js\result.png)
 
-*Do cấu trúc data mình vậy nên mình tùy biến lấy data . còn thực tế thì sẽ có những api cho riêng từng thằng tùy theo mỗi người viết hay ý đồ* nhưng logic cách xử lý thì tương tự. Lập trình thì mình tùy cơ ứng biến nhé ^^.  
+*Do cấu trúc data mình vậy nên mình tùy biến lấy data . còn thực tế thì sẽ có những api cho riêng từng thằng tùy theo mỗi người viết hay ý đồ* nhưng logic cách xử lý thì tương tự. Lập trình thì mình tùy cơ ứng biến khi có thay đổi nhé ^^.  
