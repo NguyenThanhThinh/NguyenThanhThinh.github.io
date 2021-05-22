@@ -2,6 +2,7 @@
 title: Bộ lọc thay đổi Tỉnh Thành, Quận huyện, Xã phường
 categories: [javascript]
 image: assets/img/js/result.png
+language: jane
 description : filter city district ward js, bộ lọc tỉnh thành js, javascript change district, js change district
 tags: [featured]
 ---
