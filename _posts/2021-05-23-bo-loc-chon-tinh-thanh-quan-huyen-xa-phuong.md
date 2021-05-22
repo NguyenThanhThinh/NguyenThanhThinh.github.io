@@ -47,7 +47,7 @@ Mình sử dụng `bootstrap 5` để làm giao diện . `cái nào mới là m�
   </body>
 </html>
 ```
-Giao diện mình đã làm xong, giờ thì mình sẽ đưa dữ liệu lên để hiển thị lên những `select option` này.
+Giao diện mình đã làm xong, giờ thì mình sẽ đưa dữ liệu lên để hiển thị lên những `DropDownList` này.
 Thông thường thì sẽ là những api để đưa dữ liệu lên. Nhưng ở đây mình sẽ dùng `file json` mình kiếm được trên mạng [Truy cập vào để lấy file về nhé ](https://github.com/kenzouno1/DiaGioiHanhChinhVN/blob/master/data.json){:target="_blank"}.
 
 Mình sẽ dùng thư viện `Axios` để lấy dữ liệu `file json` nhé. mình sử dụng *CDN* của nó `<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>`. 
