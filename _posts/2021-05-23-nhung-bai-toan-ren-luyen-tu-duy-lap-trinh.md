@@ -58,5 +58,38 @@ function isLeapYear ([year]) {
     }
 }
 ```
+### Bài 3 : Viết hàm tìm số lớn hơn trong 2 số nguyên nhập vào
 
+`Cách 1: : Dùng hàm if để so sánh và trả về giá trị lớn hơn trong 2 số`
+```js
+function Max( number1, number2)
+{
+    if(number1>number2)
+    return number1;
+    else
+    return number2;
+
+}
+```
+`Cách 2: Khai báo thêm biếm max để nhận giá trị lớn hơn trong 2 số và trả về giá trị củabiến max này`
+
+```js
+function Max( number1, number2)
+{
+    var max;
+    if(number1>number2)
+     max = number1;
+    else
+     max =number2;
+    return max
+}
+```
+`Cách 3: Dùng toán tử biểu thức điều kiện để so sánh giá trị của 2 số và trả về giá trị số lớn hơn`
+
+```js
+function Max( number1, number2)
+{
+   return (number1>number2)?number1:number2;
+}
+```
 `Mình sẽ cập nhật từ từ`
