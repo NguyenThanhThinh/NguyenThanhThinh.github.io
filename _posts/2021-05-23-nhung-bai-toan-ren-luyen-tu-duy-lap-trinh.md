@@ -7,7 +7,7 @@ description : rèn luyện tư duy, logic trong lập trình, javascript
 tags: [featured]
 ---
 
-Vấn đề rèn luyện tư duy khá là quan trọng trong lập trình. nếu mình không hiểu yêu cầu thì mình sẽ làm sai ::)) làm sai thì mình sẽ bị la haha. có những bài toán ta sẽ có nhiều cách giải khác nhau, nhưng cái quan trọng mình giải quyết được vấn đề thì  có cùi bắp cũng đừng quá lo lắng ::)) từ từ chúng ta sẽ tích lũy được kinh nghiệm và sẽ rút ra được kinh nghiệm cho chúng ta. ` càng tò mò suy nghĩ thì ta sẽ làm ra được những cái hay` những lúc chán nản các bạn hãy nghĩ những lúc mình giải quyết được vấn đề nhé :)
+Vấn đề rèn luyện tư duy khá là quan trọng trong lập trình. nếu mình không hiểu yêu cầu thì mình sẽ làm sai ::)) làm sai thì mình sẽ bị la haha. có những bài toán ta sẽ có nhiều cách giải khác nhau, nhưng cái quan trọng mình giải quyết được vấn đề thì  có cùi bắp cũng đừng quá lo lắng ::)) từ từ chúng ta sẽ tích lũy được kinh nghiệm và sẽ rút ra được kinh nghiệm cho chúng ta. `càng tò mò suy nghĩ thì ta sẽ làm ra được những cái hay` những lúc chán nản các bạn hãy nghĩ những lúc mình giải quyết được vấn đề nhé :)
 
 ## CÁC BƯỚC XÂY DỰNG CHƯƠNG TRÌNH
 
