@@ -1,6 +1,7 @@
 ---
 title: Entity Framework Introduction
 categories: [net core]
+language: netcore
 image: assets/img/netcore/ef.png
 description :  ef core, entity framework, code first
 tags: [featured]

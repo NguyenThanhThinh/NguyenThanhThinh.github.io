@@ -2,7 +2,7 @@
 title: Những bài toán rèn luyện tư duy trong lập trình
 categories: [javascript]
 image: assets/img/js/algorithm1.png
-language: jane
+language: js
 description : rèn luyện tư duy, logic trong lập trình, javascript 
 tags: [featured]
 ---

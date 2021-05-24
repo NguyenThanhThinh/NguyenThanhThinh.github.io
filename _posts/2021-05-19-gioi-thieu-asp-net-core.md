@@ -3,6 +3,7 @@ title: Giới thiệu .NET Core
 categories: [net core]
 image: assets/img/netcore/intro.png
 description :  c#, asp net core
+language: netcore
 tags: [featured]
 ---
 

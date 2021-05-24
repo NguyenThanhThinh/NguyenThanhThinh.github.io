@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Không gian tên"
-language: jane
+language: netcore
 categories: [c#]
 image: assets/img/netcore/namespace.png
 description : c#, namespace, asp net core, không gian tên c#

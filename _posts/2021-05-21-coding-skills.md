@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Coding Skills"
-language: jane
 categories: [tutorial]
 image: assets/images/home.png
 description : c#, asp net
