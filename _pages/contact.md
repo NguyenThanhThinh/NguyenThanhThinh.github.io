@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Liên hệ"
 permalink: "/contact.html"
 ---
 
