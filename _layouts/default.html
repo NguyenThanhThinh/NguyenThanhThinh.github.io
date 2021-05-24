@@ -47,10 +47,15 @@
                 <ul class="navbar-nav mr-auto d-flex align-items-center">
                     {% include menu-header.html %}
                 </ul>
+                <ul class="navbar-nav ml-auto d-flex align-items-center">
+                    {% include search-lunr.html %}
+                </ul>
             </div>
         </div>
     </nav>
-
+    <div id="lunrsearchresults">
+        <ul class="mb-0"></ul>
+    </div>
     <!-- Content -->
     <main role="main" class="site-content">
         {{ content }}
@@ -86,6 +91,8 @@
     </footer>
 
     {% include tracking-footer.html %}
+
+    <!-- <script src="{{site.baseurl}}/assets/js/lunr.js"></script> -->
     <script src="{{site.baseurl}}/assets/js/app.js"></script>
 </body>
 
