@@ -70,8 +70,14 @@ body {
   line-height: 1.6;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
-
+  background-color: #fff;
+ }
+.bar {
+  width: 0;
+  height: 100%;
+  transition: height .20s;
+  background:#37ba8a !important;
+}
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
