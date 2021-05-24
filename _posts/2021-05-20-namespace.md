@@ -4,7 +4,7 @@ title:  "Không gian tên"
 language: netcore
 categories: [c#]
 image: assets/img/netcore/namespace.png
-description : c#, namespace, asp net core, không gian tên c#
+description : c#, namespace, asp net core, không gian tên c#,nguyenthanhthinh.github.io
 tags: [featured,c#]
 ---
 ![asp net core,c#,namespace](\assets\img\netcore\architecture.png)

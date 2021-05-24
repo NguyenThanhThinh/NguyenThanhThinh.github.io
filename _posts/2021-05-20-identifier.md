@@ -4,7 +4,7 @@ title:  "Định danh"
 language: netcore
 categories: [c#]
 image: assets/img/netcore/identifier.jpg
-description : identifier c#, c# định danh
+description : identifier c#, c# định danh,nguyenthanhthinh.github.io
 tags: [featured]
 ---
 

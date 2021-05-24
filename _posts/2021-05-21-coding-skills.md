@@ -3,7 +3,7 @@ layout: post
 title:  "Coding Skills"
 categories: [tutorial]
 image: assets/images/home.png
-description : c#, asp net
+description : c#, asp net,nguyenthanhthinh.github.io
 tags: [sticky]
 ---
 

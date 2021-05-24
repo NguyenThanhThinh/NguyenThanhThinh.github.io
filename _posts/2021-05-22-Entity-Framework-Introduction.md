@@ -3,7 +3,7 @@ title: Entity Framework Introduction
 categories: [net core]
 language: netcore
 image: assets/img/netcore/ef.png
-description :  ef core, entity framework, code first
+description :  ef core, entity framework, code first,nguyenthanhthinh.github.io
 tags: [featured]
 ---
 ## Entity Framework Core: Overview
