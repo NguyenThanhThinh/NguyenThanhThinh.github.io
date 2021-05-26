@@ -1,5 +1,5 @@
 ---
-title: Chia sẻ một theme đầy đủ giao diện và code php để chọn cho các lập trình viên nè
+title: Chia sẻ một theme đầy đủ giao diện và code php  cho các lập trình viên nè
 categories: [theme]
 image: assets/img/html/theme.png
 language: js
