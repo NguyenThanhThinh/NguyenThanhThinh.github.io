@@ -7,7 +7,7 @@ description : php , share theme html , theme đầy đủ chức năng
 tags: [featured]
 ---
 
-Một theme đầy đủ soure code cho các bạn. Hình ảnh `soure code` và link tải `phía dưới`  mình đính kèm phía dưới nên mọi người hoàn tin cậy nhé
+Một theme đầy đủ soure code cho các bạn. Hình ảnh `soure code` và link tải `phía dưới`  mình đính kèm phía dưới nhé
 
 ![js, theme,php](\assets\img\html\code-theme.png)
 
