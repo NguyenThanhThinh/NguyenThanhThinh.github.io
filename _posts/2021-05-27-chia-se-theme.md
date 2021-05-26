@@ -1,0 +1,16 @@
+---
+title: Chia sẻ một theme đầy đủ giao diện và code php để chọn cho các lập trình viên nè
+categories: [theme]
+image: assets/img/html/theme.png
+language: js
+description : php , share theme html , theme đầy đủ chức năng
+tags: [featured]
+---
+
+Một theme đầy đủ soure code cho các bạn. Hình ảnh `soure code` và link tải `phía dưới`  mình đính kèm phía dưới nên mọi người hoàn tin cậy nhé
+
+![js, theme,php](\assets\img\html\code-theme.png)
+
+![js, php](\assets\img\html\code-theme-php.png)
+
+Mọi người vào tải tại đây nhé [Truy cập vào để lấy về nhé ](https://drive.google.com/drive/folders/1JBfHsZRF0vbz-0B7ZqHEW-pYpdXWd-Rv?usp=sharing).
