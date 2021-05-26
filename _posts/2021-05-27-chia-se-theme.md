@@ -14,3 +14,5 @@ Một theme đầy đủ soure code cho các bạn. Hình ảnh `soure code` và
 ![js, php](\assets\img\html\code-theme-php.png)
 
 Mọi người vào tải tại đây nhé [Truy cập vào để lấy về nhé ](https://drive.google.com/drive/folders/1JBfHsZRF0vbz-0B7ZqHEW-pYpdXWd-Rv?usp=sharing).
+
+Mọi ngưởi theo dõi trang này nhé [Link](https://www.facebook.com/profile.php?id=100068266882305) `để cập nhật những bài viết mới nhất`
