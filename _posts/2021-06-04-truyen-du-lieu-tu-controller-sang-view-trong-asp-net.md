@@ -30,6 +30,8 @@ Bài toán đặt ra giả sử bạn có một `trang` muốn hiển thị nào
 
 		public bool? IsLike { get; set; }
 
+		public string Image { get; set; }
+
 		public DateTime CreateDate { get; set; }
 	}
 ```
