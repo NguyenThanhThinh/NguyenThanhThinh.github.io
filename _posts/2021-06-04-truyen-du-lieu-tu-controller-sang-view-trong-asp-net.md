@@ -1,9 +1,9 @@
 ---
-title:Truyền dữ liệu nhiều đối tượng từ controller sang view trong asp net mvc
-categories: [theme]
+title: Truyền dữ liệu sử dụng nhiều đối tượng từ controller sang view trong asp net mvc
+categories: [netcore]
 image: assets/img/netcore/mvc.gif
-language: netcore
-description : pass data controller to view asp net mvc
+language: js
+description : pass data controller to view asp net
 tags: [featured]
 ---
 Bài toán đặt ra giả sử bạn có một `trang` muốn hiển thị nào là `sản phẩm mới nhất`, `sản phẩm mua nhiều` , `sản phẩm nổi bật`. 
