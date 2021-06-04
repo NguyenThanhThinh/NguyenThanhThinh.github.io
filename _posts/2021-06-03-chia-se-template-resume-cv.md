@@ -9,7 +9,6 @@ tags: [featured]
 Tạo một trang web `cv trực tuyến chuyên nghiệp, hiện đại và tinh vi thật dễ dàng`. Template là một giải pháp hoàn hảo, chuyên nghiệp và trang web cá nhân. nó đi kèm với rất nhiều tính năng hữu ích. Có thể dễ dàng tùy chỉnh mẫu này cho bất kỳ nhu cầu nào trên trang web của Bạn.
 
 ## Đặc điểm nổi bật 
-
  - Nhiều tùy chọn cho trang chủ
  - Sử dụng Bootstrap 4
  - Responsive 
