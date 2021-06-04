@@ -1,8 +1,8 @@
 ---
-title: Cách truyền dữ liệu nhiều đối tượng từ controller sang view trong asp net mvc
+title:Truyền dữ liệu nhiều đối tượng từ controller sang view trong asp net mvc
 categories: [theme]
 image: assets/img/netcore/mvc.gif
-language: js
+language: netcore
 description : pass data controller to view asp net mvc
 tags: [featured]
 ---
