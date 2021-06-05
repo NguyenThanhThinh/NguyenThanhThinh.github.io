@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Coding Skills"
+title:  "Chia sẻ"
 categories: [tutorial]
-image: assets/images/home.png
+image: assets/img/netcore/mvc.gif
 description : c#, asp net,nguyenthanhthinh.github.io
 tags: [sticky]
 ---
