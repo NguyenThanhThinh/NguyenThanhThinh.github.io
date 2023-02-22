@@ -30,7 +30,7 @@ tags: [c#]
 
 ### 3.  Usage Optimization
 
-Only fetch required data by filtering and projecting your queries
+Only fetch required data by filtering and projecting your queries
 
 
 ```cs
@@ -60,7 +60,7 @@ SELECT
  - If the elements are aggregated – Count(), Average(), First()
  -  When a property is accessed.
 
-- Try to delay execution (materialization) until you actually need the results.
+- Try to delay execution (materialization) until you actually need the results.
 - You can monitor query execution using Express Profiler
 
 ```
@@ -83,7 +83,7 @@ finally
 
 ```
 
-- *When adding or updating a record, Entity framework makes a call to DetectChanges().*
+- *When adding or updating a record, Entity framework makes a call to DetectChanges().*
 - *Use AddRange() and RemoveRange() to reduce calls*
 
 ```cs
@@ -95,7 +95,7 @@ context.Products.AddRange(products);
 
 ```
 
-- Entity Framework builds associations and tracks changes for every loaded entity.
+- Entity Framework builds associations and tracks changes for every loaded entity.
 - If we only want to display data, this process is redundant.
 
 **Disable tracking**:
@@ -138,7 +138,7 @@ context.Products
 - Dependency Injection - no client code has to be changed simply because an object it depends on needs to be changed to a different one
 - Command – Encapsulate a request as an object, allowing delayed execution, undo and replay
 - Repository – Separates the data access logic and maps it to the entities in the business logic
-- Unit of work – Used to group one or more into a single transaction or ''unit of work'', so that all operations either pass or fail as one
+- Unit of work – Used to group one or more into a single transaction or *unit of work*, so that all operations either pass or fail as one
 
 **Singleton Pattern**
 
