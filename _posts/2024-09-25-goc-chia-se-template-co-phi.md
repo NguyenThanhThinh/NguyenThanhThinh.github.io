@@ -3,7 +3,7 @@ title: Template có phí !
 categories: [js]
 image: assets/img/template_1.png
 language: .net core with vue js
-description : VueJ with ASP.NET Razor could be great
+description : Template Layout
 tags: [Template,Layout]
 ---
 
