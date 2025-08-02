@@ -1,7 +1,7 @@
 ---
 title: Những Tính Năng Mới Nhất và Ứng Dụng LINQ Hiệu Quả NET CORE 10
 categories: [net core]
-image: assets/img/netcore/result.png
+image: assets/img/ef.png
 language: js
 description : net core
 tags: [featured]
